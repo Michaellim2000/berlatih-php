@@ -15,7 +15,6 @@ function skor_terbesar($arr){
     print_r($arr_result);
     echo '<pre>';
 }
-
 // TEST CASES
 $skor = [
     [
